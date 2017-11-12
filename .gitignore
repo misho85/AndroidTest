@@ -74,3 +74,4 @@ gen-external-apklibs
 .nfs*
 
 # End of https://www.gitignore.io/api/linux,android
+.idea/vcs.xml
